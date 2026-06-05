@@ -1,6 +1,6 @@
 # 🖥️ Video Card Anatomy: What are its components?
 
-An interactive, 3D educational platform designed to demystify the hardware and logic behind modern Graphics Processing Units.
+An interactive, 3D educational platform designed to demystify the hardware and logic behind modern Graphics Processing Units (GPU).
 
 ---
 
@@ -30,7 +30,7 @@ An interactive, 3D educational platform designed to demystify the hardware and l
 ---
 
 ## 📝 Project Description
-This interactive educational platform is designed to help users understand the anatomy of a GPU and how its hardware components work together to deliver graphics and computational performance. The platform covers key components such as the **GPU die, VRAM, cache, memory controllers, display output ports, and power delivery circuitry.** Users can explore detailed explanations, interactive visualizations, and dynamic content that demonstrate the role of each component and how data flows through the GPU during rendering and processing tasks.
+An interactive educational platform designed to help users understand the anatomy of a GPU and how its hardware components work together to deliver graphics and computational performance. The platform covers key components such as the **GPU die, VRAM, cache, memory controllers, display output ports, and power delivery circuitry.** Users can explore detailed explanations, interactive visualizations, and dynamic content that demonstrate the role of each component and how data flows through the GPU during rendering and processing tasks. The project is built using Astro for the application structure, React for interactive user interfaces, MDX for content-driven learning experiences, Supabase for backend services and PostgreSQL database management, and Drizzle ORM for type-safe database operations.
 
 ---
 
