@@ -106,3 +106,5 @@ The platform is organized into the following logical sections:
 ## 📜 References
 
 *   **AI applications using GPUs.** (2025, February 13). Aethir. [https://ecosystem.aethir.com/blog-posts/ai-applications-using-gpus-enhancing-computational-efficiency-and-performance](https://ecosystem.aethir.com/blog-posts/ai-applications-using-gpus-enhancing-computational-efficiency-and-performance)
+*   **Bailey, R.** (2025, July 21). *GPU applications: What are the main applications for GPUs?* Atlantic.Net. [https://www.atlantic.net/gpu-server-hosting/gpu-applications-what-are-the-main-applications-for-gpus/](https://www.atlantic.net/gpu-server-hosting/gpu-applications-what-are-the-main-applications-for-gpus/)
+
