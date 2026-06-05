@@ -69,7 +69,7 @@ The platform is organized into the following logical sections:
 *   GPU vs. Video Card: The Distinction
 *   Architecture: CPU vs. GPU
 *   Form Factors: Integrated vs. Dedicated
-*   Applications
+*   Applications of Video Cards
 
 ### Video Card Components
 *   **Processing**: GPU Die, Shader Cores, Thread Block Scheduler.
