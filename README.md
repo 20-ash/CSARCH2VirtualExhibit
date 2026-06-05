@@ -94,4 +94,4 @@ The platform is organized into the following logical sections:
 ---
 
 ## 📷 Tentative Style Guide Snapshot
-![Tentative Style Guide Snapshot](CSARCH2 Style Guide Snapshot.png)
+![Tentative Style Guide Snapshot](CSARCH2%20Style%20Guide%20Snapshot.png)
