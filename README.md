@@ -37,12 +37,12 @@ An interactive educational platform designed to help users understand the anatom
 ## 🗺️ Exhibit Navigation
 The platform is organized into the following logical sections:
 
-1.  **Rationale**: Group discusses why we chose our topic. What sparked our interest.
-2.  **What is a Video Card?**: This page will discuss a basic definition of what a video card is, clarifying its difference with a GPU, discussing how a GPU and a video card are related, and discuss the two types of GPUs: integrated and dedicated. Difference between cpu and gpu: Discuss how a GPU and  CPU are different internally. Will also talk about why they have different roles.
-3.  **CPU vs. GPU**: A long scrollable webpage showcasing a picture and a description for each instance of a video card being used for something (e.g. used in video processing, training AI, crypto mining, etc.).
-4.  **Common Applications**: A scrollable gallery showcasing the GPU's role in video processing, AI training, cryptocurrency mining, and more.
-5.  **Component Anatomy**: A webpage containing an interactive component. A 3d model of a video card will be shown that a user can interact with. The model will be able to rotate with a 360 view. The user can click on a component of the video card model and it will zoom in to that component. The description container right next to the video card model will be updated to display the details on what the component is about and its role in the video card.
-6.  **Simulation**: Our other interactive element will be another 3d model of a video card. This time, the component will be used to simulate the processes a video card takes to process data and render a final frame in the VRAM.
+1.  **Rationale**: The group discusses why we chose the topic and what sparked the interest.
+2.  **What is a Video Card?**: This page will discuss a basic definition of what a video card is, clarify its difference from a GPU, discuss how a GPU and a video card are related, and discuss the two types of GPUs: integrated and dedicated.
+3.  **CPU vs. GPU**: Discuss how a CPU and a GPU are different internally. This section will also talk about why they have different roles.
+4.  **Common Applications**: A long scrollable webpage showcasing a picture and a description for each instance of a video card being used for something (e.g., used in video processing, training AI, crypto mining, etc.).
+5.  **Component Anatomy**: A webpage containing an interactive component. A 3D model of a video card that a user can interact with will be shown. The model will be able to rotate with a 360-degree view. The user can click on a component of the video card model, and it will zoom in on that component. The description container right next to the video card model will be updated to display the details on what the component is about and its role in the video card.
+6.  **Simulation**: Our other interactive element will be another 3D model of a video card. This time, the component will be used to simulate the processes a video card takes to process data and render a final frame in the VRAM.
 
 ---
 
