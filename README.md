@@ -93,5 +93,5 @@ The platform is organized into the following logical sections:
 
 ---
 
-## 📖 Exhibition Content Outline
+## 📷 Tentative Style Guide Snapshot
 Refer to the link for a clearer view: https://canva.link/csarch2-tentative-style-guide-snapshot
