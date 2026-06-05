@@ -77,10 +77,13 @@ The platform is organized into the following logical sections:
 ### Application of Video Cards
 
 ### Video Card Components
-*   **Processing**: GPU Die, Shader Cores, Thread Block Scheduler.
-*   **Memory**: Cache Memory, VRAM, Memory Controllers.
+*   **Graphics Processing Unit (GPU)**: GPU Die, Shader Cores, Thread Block Scheduler, Tensor Cores, Cache Memory (L1, L2, and Shared Memory), Memory Bus.
+*   **Memory**: Video RAM (VRAM), Memory Controllers.
 *   **Power**: Voltage Requirements, Voltage Regulator Module (VRM).
-*   **Interface & Cooling**: PCIe Connector, Cooling Systems (Fans/Heatsinks).
+*   **Communication Interface**: PCIe Connector.
+*   **Output Interface**: DisplayPort, DVI, HDMI Port
+*   **Video BIOS (VBIOS)**
+*   **Cooling**: Cooling Systems (Fans/Heatsinks)
 
 ### The Process (Workflow)
 1.  **Data Transfer**: CPU to GPU communication via PCIe.
