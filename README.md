@@ -105,7 +105,7 @@ The platform is organized into the following logical sections:
 
 ## 📜 References
 
-* ***AI applications using GPUs.*** (2025, February 13). Aethir. [https://ecosystem.aethir.com/blog-posts/ai-applications-using-gpus-enhancing-computational-efficiency-and-performance](https://ecosystem.aethir.com/blog-posts/ai-applications-using-gpus-enhancing-computational-efficiency-and-performance)
+* **Aethir.** (2025, February 13). *AI applications using GPUs.* [https://ecosystem.aethir.com/blog-posts/ai-applications-using-gpus-enhancing-computational-efficiency-and-performance](https://ecosystem.aethir.com/blog-posts/ai-applications-using-gpus-enhancing-computational-efficiency-and-performance)
 * **Bailey, R.** (2025, July 21). *GPU applications: What are the main applications for GPUs?* Atlantic.Net. [https://www.atlantic.net/gpu-server-hosting/gpu-applications-what-are-the-main-applications-for-gpus/](https://www.atlantic.net/gpu-server-hosting/gpu-applications-what-are-the-main-applications-for-gpus/)
 * **Caputo, A. C.** (2014). DVS archiving and storage. In *Elsevier eBooks* (pp. 293-330). [https://doi.org/10.1016/b978-0-12-420042-5.00009-5](https://doi.org/10.1016/b978-0-12-420042-5.00009-5)
 * **Caulfield, B.** (2009, December 16). *What's the difference between a CPU and a GPU?* NVIDIA Blog. [https://blogs.nvidia.com/blog/whats-the-difference-between-a-cpu-and-a-gpu/](https://blogs.nvidia.com/blog/whats-the-difference-between-a-cpu-and-a-gpu/)
