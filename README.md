@@ -62,13 +62,19 @@ The platform is organized into the following logical sections:
 
 ## 📖 Exhibition Content Outline
 
-### Introduction
+### Introduction & Rationale
+*   Reason for Choosing Topic
+*   Objective of the Exhibit
+*   Relevance to Modern Computing
+
+### What is a Video Graphics Card?
 *   Definition of a Video Graphics Card
-*   Purpose and Functions
+*   Purpose and Functions of a Video Graphics Card
 *   GPU vs. Video Card: The Distinction
 *   Architecture: CPU vs. GPU
 *   Form Factors: Integrated vs. Dedicated
-*   Applications of Video Cards
+
+### Application of Video Cards
 
 ### Video Card Components
 *   **Processing**: GPU Die, Shader Cores, Thread Block Scheduler.
