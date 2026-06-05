@@ -75,6 +75,11 @@ The platform is organized into the following logical sections:
 *   Form Factors: Integrated vs. Dedicated
 
 ### Application of Video Cards
+*   Gaming and Entertainment
+*   Scientific Research
+*   Artificial Intelligence and Machine Learning
+*   Healthcare
+*   Finance
 
 ### Video Card Components
 *   **Graphics Processing Unit (GPU)**: GPU Die, Shader Cores, Thread Block Scheduler, Tensor Cores, Cache Memory (L1, L2, and Shared Memory), Memory Bus.
