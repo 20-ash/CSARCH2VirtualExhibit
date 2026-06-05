@@ -100,3 +100,9 @@ The platform is organized into the following logical sections:
 
 ## 📷 Tentative Style Guide Snapshot
 ![Tentative Style Guide Snapshot](CSARCH2%20Style%20Guide%20Snapshot.png)
+
+---
+
+## 📜 References
+
+*   **AI applications using GPUs.** (2025, February 13). Aethir. [Link](https://ecosystem.aethir.com/blog-posts/ai-applications-using-gpus-enhancing-computational-efficiency-and-performance)
