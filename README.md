@@ -4,7 +4,7 @@ An interactive, 3D educational platform designed to demystify the hardware and l
 
 ---
 
-## 👥 Group Members
+## 👥 Group Members (Group 7)
 *   **DE LEON, SOFIA YSABELA**
 *   **GALVEZ, ANOUSHEH MONICK ROBENIOL**
 *   **GUILLERMO, IAIN DRAEZEN SY**
