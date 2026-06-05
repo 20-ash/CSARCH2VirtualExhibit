@@ -74,7 +74,7 @@ The platform is organized into the following logical sections:
 *   Architecture: CPU vs. GPU
 *   Form Factors: Integrated vs. Dedicated
 
-### Application of Video Cards
+### Applications of Video Cards
 *   Gaming and Entertainment
 *   Scientific Research
 *   Artificial Intelligence and Machine Learning
