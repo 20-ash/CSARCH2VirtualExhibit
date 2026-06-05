@@ -56,9 +56,8 @@ The platform is organized into the following logical sections:
 *   The model should automatically zoom in to the component the user wishes to know more about.
 
 ### 2. Rendering Pipeline Simulator
-*  Another 3d model to simulate the steps a video card takes to render a frame.
 *  A secondary 3D model that simulates how a frame is built.
-*  These are going to be MDX files wherein when a user interacts with the GPU 3d Model on the left. When the gpu is done calculating something, the output will be shown on the right as the current progress of a frame being rendered inside vram.
+*  These are going to be MDX files wherein a user interacts with the 3D Model of the GPU on the left. When the GPU is done calculating something, the output will be shown on the right as the current progress of a frame being rendered inside the VRAM.
 ---
 
 ## 📖 Exhibition Content Outline
