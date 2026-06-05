@@ -92,3 +92,6 @@ The platform is organized into the following logical sections:
 4.  **Output**: Final Frame Rendering and Display.
 
 ---
+
+## 📖 Exhibition Content Outline
+Refer to the link for a clearer view: https://canva.link/csarch2-tentative-style-guide-snapshot
