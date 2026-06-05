@@ -49,10 +49,11 @@ The platform is organized into the following logical sections:
 ## 🕹️ Interactive Elements
 
 ### 1. 3D Component Explorer
-*   Component descriptions will be displayed accordingly depending on the component the user clicks on the 3d model.
-*   User can rotate the 3d model.
-*   Paragraph description next to the 3d model. Will update depending on the currently selected component.
-*   The model should automatically zoom in. To the component the user wishes to know more about.
+*   A 3D model to be used for showcasing the different components of a video card.
+*   Component descriptions will be displayed accordingly depending on the component the user clicks on the 3D model.
+*   User can rotate the 3D model.
+*   Paragraph description next to the 3D model. It will update depending on the currently selected component.
+*   The model should automatically zoom in to the component the user wishes to know more about.
 
 ### 2. Rendering Pipeline Simulator
 *   A secondary 3D model that simulates how a frame is built.
