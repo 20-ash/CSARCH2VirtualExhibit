@@ -1,0 +1,9 @@
+Topics tentatively rejected.  
+
+Duplicate proposal with other group/other section (S01 groups 5 and 8).  Discuss and coordinate with them on who will get the topics.  If there is no compromise, then neither will get this topic.
+
+other alternatives:
+* Display tech: from CRT to MicroLED
+* Printer tech: Laser vs inkjet vs 3D printer vs dot matrix printer
+
+No GitHub setup. Submit GitHub link on the next submission iteration.  Proposal document should be part of the incremental readme. Style guide snapshot should be included as well.
