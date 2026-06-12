@@ -54,7 +54,7 @@ The platform is organized into the following logical sections:
 ---
 
 ## 📖 Exhibition Content Outline
-
+```diff
 ### Introduction
 *   **The Rationale**: Why display screens were developed and the fundamental human need for visual data interfaces.
 *   **The Timeline**: The evolutionary leap from analog tubes to microscopic LEDs.
@@ -70,7 +70,7 @@ The platform is organized into the following logical sections:
 ### Modern & Emerging Innovations
 *   **The OLED Family**: The shift to self-emitting pixels, organic compounds, and the elimination of backlights.
 *   **MicroLED**: The synthesis of LCD and OLED strengths, utilizing microscopic LEDs for unparalleled brightness and contrast.
-
+```
 ---
 
 ## 📷 Tentative Style Guide Snapshot
