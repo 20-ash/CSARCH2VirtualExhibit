@@ -56,7 +56,7 @@ The platform is organized into the following logical sections:
 ## 📖 Exhibition Content Outline
 
 ### Introduction
-*   $\color{lightgreen}{\textbf{**The Rationale**: Why display screens were developed and the fundamental human need for visual data interfaces.}}$
+*$\color{lightgreen}{\mathbf{The\ Rationale}}$: Why display screens were developed and the fundamental human need for visual data interfaces.}}$
 *   **The Timeline**: The evolutionary leap from analog tubes to microscopic LEDs.
 
 ### Legacy Display Technologies
