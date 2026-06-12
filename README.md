@@ -55,21 +55,21 @@ The platform is organized into the following logical sections:
 
 ## 📖 Exhibition Content Outline
 ```diff
-### Introduction
-*   **The Rationale**: Why display screens were developed and the fundamental human need for visual data interfaces.
-*   **The Timeline**: The evolutionary leap from analog tubes to microscopic LEDs.
++ ### Introduction
++ *   **The Rationale**: Why display screens were developed and the fundamental human need for visual data interfaces.
++ *   **The Timeline**: The evolutionary leap from analog tubes to microscopic LEDs.
 
-### Legacy Display Technologies
-*   **The Cathode Ray Tube (CRT)**: Principles of electron guns, vacuum tubes, and phosphor interaction.
-*   **Plasma Displays**: The transition to flat panels using noble gases, UV light, and individual pixel cells.
++ ### Legacy Display Technologies
++ *   **The Cathode Ray Tube (CRT)**: Principles of electron guns, vacuum tubes, and phosphor interaction.
++ *   **Plasma Displays**: The transition to flat panels using noble gases, UV light, and individual pixel cells.
 
-### The LCD Architecture
-*   **Liquid Crystal Displays (LCD)**: The mechanics of polarizing filters, liquid crystal layers, and backlight transmission.
-*   **Improvements Overtime**: Rise of LED for backlight transmission, local dimming with MiniLED, and the quantum dot layer with QDLED.
++ ### The LCD Architecture
++ *   **Liquid Crystal Displays (LCD)**: The mechanics of polarizing filters, liquid crystal layers, and backlight transmission.
++ *   **Improvements Overtime**: Rise of LED for backlight transmission, local dimming with MiniLED, and the quantum dot layer with QDLED.
 
-### Modern & Emerging Innovations
-*   **The OLED Family**: The shift to self-emitting pixels, organic compounds, and the elimination of backlights.
-*   **MicroLED**: The synthesis of LCD and OLED strengths, utilizing microscopic LEDs for unparalleled brightness and contrast.
++ ### Modern & Emerging Innovations
++ *   **The OLED Family**: The shift to self-emitting pixels, organic compounds, and the elimination of backlights.
++ *   **MicroLED**: The synthesis of LCD and OLED strengths, utilizing microscopic LEDs for unparalleled brightness and contrast.
 ```
 ---
 
