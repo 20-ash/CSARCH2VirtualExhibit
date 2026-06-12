@@ -1,4 +1,4 @@
-# 🖥️ The Glass Canvas: How Screens Evolved
+# <mark>🖥️ The Glass Canvas: How Screens Evolved</mark>
 
 ---
 
@@ -10,7 +10,7 @@
 *   **TIU, AVRAM NATHANIEL PAGUNTALAN**
 
 ## 🎯 Group Theme
-**Understanding different display technologies and how they produce images on screen.** 
+<mark>**Understanding different display technologies and how they produce images on screen.**</mark>
 
 ## 🛠️ Tech Stack
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
@@ -25,7 +25,7 @@
 ---
 
 ## 📝 Project Description
-An interactive educational platform designed to help users understand the different types of displays developed and how its components work together to deliver visuals to us. The platform covers key components such as why display screens were developed, the uses of each display type, and comparing them to each other. Users can explore detailed explanations, interactive visualizations, and dynamic content that demonstrate the role of each component and how the components work together to produce light and process it to produce images. The project is built using Astro for the application structure, React for interactive user interfaces, MDX for content-driven learning experiences, React Three Fiber (R3F) for 3d models, and Drei as a collection of helper functions for R3F.
+<mark>An interactive educational platform designed to help users understand the different types of displays developed and how its components work together to deliver visuals to us. The platform covers key components such as why display screens were developed, the uses of each display type, and comparing them to each other. Users can explore detailed explanations, interactive visualizations, and dynamic content that demonstrate the role of each component and how the components work together to produce light and process it to produce images. The project is built using Astro for the application structure, React for interactive user interfaces, MDX for content-driven learning experiences, React Three Fiber (R3F) for 3d models, and Drei as a collection of helper functions for R3F.</mark>
 
 ---
 
