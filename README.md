@@ -73,6 +73,6 @@ The platform is organized into the following logical sections:
 
 ---
 
-## 📷 Tentative Style Guide Snapshot
-![Tentative Style Guide Snapshot](timeline.png)
-![Tentative Style Guide Snapshot](component.png)
+## <mark>📷 Tentative Style Guide Snapshot</mark>
+<mark>![Tentative Style Guide Snapshot](timeline.png)</mark>
+<mark>![Tentative Style Guide Snapshot](component.png)</mark>
