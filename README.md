@@ -32,13 +32,13 @@ An interactive educational platform designed to help users understand the differ
 ## 🗺️ Exhibit Navigation
 The platform is organized into the following logical sections:
 
-1.  **Rationale**: Discusses why display technology was developed and what needs did it address.
-2.  **Timeline**: A user will be presented with a long scroll timeline to choose which display tech they wish to learn more about. Each entry in the timeline will provide a year on when the screen became commercially available to the public along with a high-level overview on how each display type works and their applications.
-3.  **The Cathode Ray Tube**: Discuss what a cathode ray tube is, its parts, and how it works. This section will also show its advantages and limitations, along with its applications in the past and present.
-4.  **Plasma**: Similar to the Cathode Ray Tube, its origins, applications, and inner workings will be discussed. Will also cover its early and late use during its era along with its decline.
-5.  **LCD Family**: Will mainly focus on its core principles of a liquid crystal layer, having two polarizing light filters, susceptibility to light bleed, power delivery, backlighting, and how the other variations either replace some of the components or build on top of it.
-6.  **OLED Family**: Exploring its application in consumer electronics, IoT, embedded systems, industrial, and automotive.
-7.  **MicroLED**: Currently an in development display screen type. Combines the strengths of LCD and OLED type screens.
+1.  <mark>**Rationale**: Discusses why display technology was developed and what needs did it address.</mark>
+2.  <mark>**Timeline**: A user will be presented with a long scroll timeline to choose which display tech they wish to learn more about. Each entry in the timeline will provide a year on when the screen became commercially available to the public along with a high-level overview on how each display type works and their applications.</mark>
+3.  <mark>**The Cathode Ray Tube**: Discuss what a cathode ray tube is, its parts, and how it works. This section will also show its advantages and limitations, along with its applications in the past and present.</mark>
+4.  <mark>**Plasma**: Similar to the Cathode Ray Tube, its origins, applications, and inner workings will be discussed. Will also cover its early and late use during its era along with its decline.</mark>
+5.  <mark>**LCD Family**: Will mainly focus on its core principles of a liquid crystal layer, having two polarizing light filters, susceptibility to light bleed, power delivery, backlighting, and how the other variations either replace some of the components or build on top of it.</mark>
+6.  <mark>**OLED Family**: Exploring its application in consumer electronics, IoT, embedded systems, industrial, and automotive.</mark>
+7.  <mark>**MicroLED**: Currently an in development display screen type. Combines the strengths of LCD and OLED type screens.</mark>
 
 ---
 
@@ -47,7 +47,7 @@ The platform is organized into the following logical sections:
 ### 3D Component Explorer
 *   Component descriptions will be displayed accordingly depending on the component the user clicks on the 3d model.
 *   User can rotate the 3d model.
-*   Shows animations to simulate how light passes from its source and is processed into colors.
+*   <mark>Shows animations to simulate how light passes from its source and is processed into colors.</mark>
 *   Paragraph description next to the 3d model. Will update depending on the currently selected component.
 *   The model should automatically zoom in. To the component the user wishes to know more about.
 
