@@ -57,19 +57,19 @@ The platform is organized into the following logical sections:
 
 ### Introduction
 *   <mark>**The Rationale**: Why display screens were developed and the fundamental human need for visual data interfaces.</mark>
-*   **The Timeline**: The evolutionary leap from analog tubes to microscopic LEDs.
+*   <mark>**The Timeline**: The evolutionary leap from analog tubes to microscopic LEDs.</mark>
 
-### Legacy Display Technologies
-*   **The Cathode Ray Tube (CRT)**: Principles of electron guns, vacuum tubes, and phosphor interaction.
-*   **Plasma Displays**: The transition to flat panels using noble gases, UV light, and individual pixel cells.
+### <mark>Legacy Display Technologies</mark>
+*   <mark>**The Cathode Ray Tube (CRT)**: Principles of electron guns, vacuum tubes, and phosphor interaction.</mark>
+*   <mark>**Plasma Displays**: The transition to flat panels using noble gases, UV light, and individual pixel cells.</mark>
 
-### The LCD Architecture
-*   **Liquid Crystal Displays (LCD)**: The mechanics of polarizing filters, liquid crystal layers, and backlight transmission.
-*   **Improvements Overtime**: Rise of LED for backlight transmission, local dimming with MiniLED, and the quantum dot layer with QDLED.
+### <mark>The LCD Architecture</mark>
+*   <mark>**Liquid Crystal Displays (LCD)**: The mechanics of polarizing filters, liquid crystal layers, and backlight transmission.</mark>
+*   <mark>**Improvements Overtime**: Rise of LED for backlight transmission, local dimming with MiniLED, and the quantum dot layer with QDLED.</mark>
 
-### Modern & Emerging Innovations
-*   **The OLED Family**: The shift to self-emitting pixels, organic compounds, and the elimination of backlights.
-*   **MicroLED**: The synthesis of LCD and OLED strengths, utilizing microscopic LEDs for unparalleled brightness and contrast.
+### <mark>Modern & Emerging Innovations</mark>
+*   <mark>**The OLED Family**: The shift to self-emitting pixels, organic compounds, and the elimination of backlights.</mark>
+*   <mark>**MicroLED**: The synthesis of LCD and OLED strengths, utilizing microscopic LEDs for unparalleled brightness and contrast.</mark>
 
 ---
 
